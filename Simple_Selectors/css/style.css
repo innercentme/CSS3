@@ -1,0 +1,55 @@
+/* Resetting default browser styles */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* Styling the body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    color: #333;
+    padding: 20px;
+}
+
+/* Styling the h1 */
+h1 {
+    font-size: 28px;
+    margin-bottom: 10px;
+}
+
+/* Styling the p */
+p {
+    font-size: 16px;
+}
+
+/* Styling the h2 */
+h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+/* Styling the h3 */
+h3 {
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+
+/* Styling the ID selector */
+#content {
+    background-color: #fff;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+/* Styling the class selector */
+.highlight {
+    background-color: yellow;
+    font-weight: bold;
+}
+
+/* Styling the descendant selector */
+p span {
+    color: red;
+}
+
