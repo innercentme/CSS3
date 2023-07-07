@@ -1,0 +1,28 @@
+/* Styling the h1 element */
+h1 {
+    color: blue;
+    font-size: 24px;
+}
+
+/* Styling the .container class */
+.container {
+    background-color: lightgray;
+    padding: 20px;
+}
+
+/* Styling the h2 element inside .container */
+.container h2 {
+    color: red;
+    font-size: 20px;
+}
+
+/* Styling the p element inside .container */
+.container p {
+    font-size: 16px;
+}
+
+/* Styling the li elements inside ul */
+ul li {
+    color: green;
+    list-style: none;
+}
